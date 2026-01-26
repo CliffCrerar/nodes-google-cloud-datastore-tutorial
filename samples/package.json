@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@google-cloud/datastore": "^6.0.0",
-    "sinon": "^7.0.0",
+    "sinon": "^16.1.2",
     "yargs": "^16.0.0"
   },
   "devDependencies": {
